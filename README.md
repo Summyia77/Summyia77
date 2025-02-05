@@ -15,6 +15,13 @@
 
 - 📫 How to reach me **summyiawork@gmail.com**
 
+###
+
+<div align="right">
+  <img height="200" src="https://github.com/mhmzdev/mhmzdev/raw/master/code.gif"  />
+</div>
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/summyia-fatima-274787311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="summyia-fatima-274787311" height="30" width="40" /></a>
@@ -46,22 +53,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Summyia77/count.svg?"  />
 </div>
 
-###
-
-<div align="right">
-  <img height="200" src="https://github.com/mhmzdev/mhmzdev/raw/master/code.gif"  />
-</div>
-
-###
 
 ###
