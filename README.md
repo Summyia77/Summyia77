@@ -43,7 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Summyia77/Summyia77/output/snake.svg" alt="Snake animation" />
 
 ###
 
