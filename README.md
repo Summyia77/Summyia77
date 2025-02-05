@@ -29,7 +29,7 @@ Here are some of my projects:
     <a href="https://quotes-generator-website.firebaseapp.com/">Visit Website</a>
 
 *   **Weather Website:** Provides current weather information for any location. ☀️☁️🌧️
-    <a href="https://weather-website-bd84f.web.app/" target=""_blank>Visit Website</a>
+    <a href="https://weather-website-bd84f.web.app/" target="_blank">Visit Website</a>
 
 <div align="center">
   <img height="400" src="https://github.com/mhmzdev/mhmzdev/raw/master/code.gif"  />
