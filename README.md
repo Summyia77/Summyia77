@@ -28,3 +28,41 @@
 </div>
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/summyia-fatima-274787311/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/message/4EISLMWQEEP5H1?autoload=1&app_absent=0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="summyiawork@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Summyia77/Summyia77/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Summyia77/count.svg?"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="200" src="https://github.com/mhmzdev/mhmzdev/raw/master/code.gif"  />
+</div>
+
+###
+
+###
