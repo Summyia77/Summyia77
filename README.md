@@ -14,6 +14,23 @@
 - 📫 How to reach me **summyiawork@gmail.com**
 
 - 📄 Know about my resume <a href="https://drive.google.com/file/d/1PIeLxhceOAvhXnVlvDiY01Dfrg3eR6Y0/view?usp=sharing">Resume</a>
+
+# My Projects
+
+Here are some of my projects:
+
+*   **Tic Tac Toe:** A classic game of Tic Tac Toe especially for children cartoonish interface  🎮
+    <a href="https://tic-tac-toe-ef667.firebaseapp.com/">Visit Website</a>
+
+*   **Stopwatch:** A simple and accurate stopwatch application. ⏱️
+    <a href="https://stop-watch-website.firebaseapp.com/">Visit Website</a>
+
+*   **Quote Generator:** Generates random and inspiring quotes. 💬
+    <a href="https://quotes-generator-website.firebaseapp.com/">Visit Website</a>
+
+*   **Weather Website:** Provides current weather information for any location. ☀️☁️🌧️
+    <a href="https://weather-website-bd84f.web.app/" target=""_blank>Visit Website</a>
+
 <div align="center">
   <img height="400" src="https://github.com/mhmzdev/mhmzdev/raw/master/code.gif"  />
 </div>
