@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Summyia Fatima</h1>
-<h3 align="center">A passionate Web/App Developer & Designer</h3>
+<h1>Hi 👋, I'm Summyia Fatima</h1>
+<h3>A passionate Web/App Developer & Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=summyia77&label=Profile%20views&color=0e75b6&style=flat" alt="summyia77" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **summyiawork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PIeLxhceOAvhXnVlvDiY01Dfrg3eR6Y0/view?usp=sharing](https://drive.google.com/file/d/1PIeLxhceOAvhXnVlvDiY01Dfrg3eR6Y0/view?usp=sharing)
+- 📄 Know about my resume <a href="https://drive.google.com/file/d/1PIeLxhceOAvhXnVlvDiY01Dfrg3eR6Y0/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
