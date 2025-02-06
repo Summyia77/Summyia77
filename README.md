@@ -49,4 +49,3 @@ Here are some of my projects:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summyia77&show_icons=true&locale=en" alt="summyia77" /></p>
 
 
-![Profile Visits](https://img.shields.io/badge/Profile%20Visits-0-blue?style=for-the-badge&logo=github&logoColor=white)
