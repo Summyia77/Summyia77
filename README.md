@@ -49,3 +49,4 @@ Here are some of my projects:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summyia77&show_icons=true&locale=en" alt="summyia77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summyia77&" alt="summyia77" /></p>
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
