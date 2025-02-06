@@ -48,6 +48,7 @@ Here are some of my projects:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=summyia77&show_icons=true&locale=en" alt="summyia77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summyia77&" alt="summyia77" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summyia77&theme=dark&hide_current_year=true" alt="summyia77" />
+</p>
 ![Profile Visits](https://img.shields.io/badge/Profile%20Visits-0-blue?style=for-the-badge&logo=github&logoColor=white)
