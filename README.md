@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Summyia Fatima</h1>
 <h3>A passionate Student & Web/App Developer & Designer</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summyia77&theme=dark&hide_current_year=true" alt="summyia77" />
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=summyia77&label=Profile%20views&color=0e75b6&style=flat" alt="summyia77" /> </p>
 
